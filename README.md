@@ -5,7 +5,9 @@ rewrited by zhoujiawei,lidawei
 Deployment Engine 特性
 
 快速自动化部署一个完整的cloudfoundry集群，各组件并发安装
+
 自动化部署单个cloudfoundry组件
+
 可离线化的内网部署。各组件节点内核版本为3.2.0-61-virtual，即可离线，只需要Deployment Engine控制机联网
 物理机、虚拟机或容器皆可部署，剥离对Iaas层的依赖
 支持高可用部署，无单点
